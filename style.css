@@ -72,3 +72,10 @@ p {
 .super-footer.stack {
     height: 50px !important;
 }
+
+.super-footer__footnote {
+    color: rgba(255, 255, 255, .5) !important;
+    font-size: 0.95rem !important;
+    margin: auto !important;
+    padding-bottom: 30px !important;
+}
